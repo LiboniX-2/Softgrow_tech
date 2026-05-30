@@ -7,29 +7,7 @@ The internship focuses on building beginner-to-intermediate AI applications usin
 
 ## Projects Included
 
-### 1. Rule-Based Chatbot
-
-A simple chatbot developed using predefined rules and conditional logic.
-
-#### Features
-
-* Responds to user inputs based on rules
-* Basic conversational flow
-* Beginner-friendly AI logic implementation
-
-#### Technologies Used
-
-* Python
-
-#### Learning Outcomes
-
-* Understanding chatbot logic
-* Conditional statements and flow control
-* Basics of conversational AI
-
----
-
-### 2. Spam Message Detector
+### 1. Spam Message Detector
 
 A machine learning project that classifies messages as spam or non-spam.
 
@@ -54,7 +32,7 @@ A machine learning project that classifies messages as spam or non-spam.
 
 ---
 
-### 3. Recommendation System
+### 2. Recommendation System
 
 A recommendation engine that suggests items based on user preferences or patterns.
 
