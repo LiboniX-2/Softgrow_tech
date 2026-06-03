@@ -53,13 +53,37 @@ A recommendation engine that suggests items based on user preferences or pattern
 * Recommendation algorithms
 * Data analysis
 * User behavior understanding
+  
+---
+
+### 3. Sentiment Analysis
+
+A deep learning project that analyzes the sentiment of review as good or bad.
+
+#### Features
+
+* Sentiment analysis using NLP techniques
+* Data preprocessing and model training
+
+#### Technologies Used
+
+* Python
+* Tensorflow
+* Scikit-learn
+* Pandas
+* NumPy
+
+#### Learning Outcomes
+
+* Natural Language Processing 
+* Model evaluation techniques
 
 ---
 
 ## Repository Structure
 
 ```bash
-├── Rule-Based-Chatbot/
+├── Sentiment_analysis_using_rnn/
 ├── Spam-Message-Detector/
 ├── Recommendation-System/
 └── README.md
