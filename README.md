@@ -80,6 +80,30 @@ A deep learning project that analyzes the sentiment of review as good or bad.
 
 ---
 
+### 1. Spam Message Detector
+
+A machine learning project that classifies messages as spam or non-spam.
+
+#### Features
+
+* Text classification
+* Data preprocessing and model training
+
+#### Technologies Used
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+  
+#### Learning Outcomes
+
+* Natural Language Processing basics
+* TF-IDF vectorizer
+* Cosine similarity
+
+---
+
 ## Repository Structure
 
 ```bash
