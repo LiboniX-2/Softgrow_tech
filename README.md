@@ -80,9 +80,9 @@ A deep learning project that analyzes the sentiment of review as good or bad.
 
 ---
 
-### 1. Spam Message Detector
+### 4. AI Chatbot
 
-A machine learning project that classifies messages as spam or non-spam.
+A machine learning project that replies based on user responses.
 
 #### Features
 
